@@ -1,0 +1,17 @@
+/* css for header */
+header .logo{
+    font-family: var(--brand-font);
+}
+header .logo h3{
+    font-size: var(--big-font-size);
+}
+
+/* css for showcase-area section */
+
+.showcase-area .right-side{
+    overflow: hidden;
+    position: relative;
+}
+.big-title span{
+    color: var(--primary-dark);
+}
